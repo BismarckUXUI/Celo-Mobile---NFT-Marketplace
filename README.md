@@ -1,1 +1,1 @@
-# Celo-Mobile---NFT-Marketplace
+# Celo-Mobile-NFT-Marketplace
